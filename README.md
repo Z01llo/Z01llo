@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Z01llo
+- 👋 Hi, I’m @Zoi Shannon
 - 👀 I’m studying in Computer Engineering 
 - 📫 How to reach me: zshannon2006@email 
 
