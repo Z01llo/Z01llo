@@ -1,6 +1,6 @@
-Zoi Shannon
-Computer Engineering 
-zshannon2006@email 
+Zoi Shannon -
+Computer Engineering -
+zshannon2006@email -
 zzs@njit.edu
 
 <!---
