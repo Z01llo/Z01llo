@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @Zoi Shannon
-- 👀 I’m studying in Computer Engineering 
-- 📫 How to reach me: zshannon2006@email 
+Zoi Shannon
+Computer Engineering 
+zshannon2006@email 
+zzs@njit.edu
 
 <!---
 Z01llo/Z01llo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
